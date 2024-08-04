@@ -13,11 +13,16 @@ The `update_summary` function get the filename, add it in a div to the index.htm
 
 This is my arborescence :
 
-./ ------- articles/ ------- page1.html
-         |                 | page2.html
-         |- src/ ----------- page1.md
-         |                 | page2.md
-         |- template.html
-         |- index.html
-         |- style.css
-         |- tom.sh
+```
+.
+├── about.html
+├── articles
+│   └── article-eu.html
+├── index.html
+├── src
+│   └── article-eu.md
+├── style.css
+├── template.html
+├── tom.sh
+└── Ubuntu-L.ttf
+```
