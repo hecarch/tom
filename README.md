@@ -26,3 +26,7 @@ This is my arborescence :
 ├── tom.sh
 └── Ubuntu-L.ttf
 ```
+
+## How to use
+
+Put your Markdown file in the `src/` directory, and type `./tom.sh [article].md`. Tom is going to search the markdown file's name in the `src/` directory, if you want a different name for your article directory, just replace the name in the script.
