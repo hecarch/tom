@@ -71,3 +71,5 @@ else
 			;;
 	esac
 fi
+
+caddy reload
