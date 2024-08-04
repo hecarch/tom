@@ -1,7 +1,6 @@
 #!/bin/bash
 #from hecatonchire
 ### Hugo implementation in bash
-### Pretty simple isn't it
 
 update_summary() {
 	#créé le content avec le titre du .md, la date et les premières lignes de l'article puis l'ajouter a l'index
