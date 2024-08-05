@@ -59,9 +59,6 @@ else
 		-d | --dependencies)
 			dep_fn
 			;;
-		-c | --config)
-			conf_fn
-			;;
 		*)
 			if [[ -e "src/$1" ]]; then
 				main $1
